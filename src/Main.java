@@ -1,7 +1,6 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Medlemsregister v1.0");
-        System.out.println("Välkommen till Klubbens Register!");
 
 
         Medlem medlem = new Medlem("Kim", 1001);
